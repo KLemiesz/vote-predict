@@ -1,0 +1,9 @@
+---
+title: "K-work"
+author: "Katie Lemiesz"
+date: "February 1, 2018"
+output: html_document
+---
+
+
+hi everyone
